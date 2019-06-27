@@ -1,0 +1,44 @@
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\bin\Debug\NpHw-6.exe.config
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\bin\Debug\NpHw-6.exe
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\bin\Debug\NpHw-6.pdb
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw-6.csprojAssemblyReference.cache
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\MainWindow.g.cs
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\App.g.cs
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw-6_MarkupCompile.cache
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw-6_MarkupCompile.lref
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\MainWindow.baml
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw-6.g.resources
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw_6.Properties.Resources.resources
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw-6.csproj.GenerateResource.cache
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw-6.csproj.CoreCompileInputs.cache
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw-6.exe
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw-6.pdb
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\bin\Debug\HtmlAgilityPack.dll
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\bin\Debug\HtmlAgilityPack.xml
+C:\Users\шипиловд\source\repos\NpHw-6\NpHw-6\obj\Debug\NpHw-6.csproj.CopyComplete
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\NpHw-6.exe.config
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\NpHw-6.exe
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\NpHw-6.pdb
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\HtmlAgilityPack.dll
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\HtmlAgilityPack.pdb
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\HtmlAgilityPack.xml
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw-6.csprojAssemblyReference.cache
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\MainWindow.g.cs
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\App.g.cs
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw-6_MarkupCompile.cache
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw-6_MarkupCompile.lref
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\MainWindow.baml
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw-6.g.resources
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw_6.Properties.Resources.resources
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw-6.csproj.GenerateResource.cache
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw-6.csproj.CoreCompileInputs.cache
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw-6.csproj.CopyComplete
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw-6.exe
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\NpHw-6.pdb
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\MaterialDesignColors.dll
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\MaterialDesignColors.pdb
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\1 Shag\Net\Домашние работы\NpHw-6\NpHw-6\obj\Debug\App.baml
